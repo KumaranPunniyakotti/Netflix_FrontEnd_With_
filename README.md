@@ -1,6 +1,7 @@
-# YOU CAN VIEW OUR PROJECT AT https://netflix-clone-18d1d.firebaseapp.com/
+# YOU CAN VIEW OUR PROJECT AT 
+      https://netflix-clone-18d1d.firebaseapp.com/
               #     `POWERED BY HOBA ALBI'S`
-                                                                            # For Learning Purposes
+                                                                            For Learning Purposes
 
 
 
