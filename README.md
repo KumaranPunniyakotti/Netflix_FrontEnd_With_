@@ -1,3 +1,12 @@
+#YOU CAN VIEW OUR PROJECT https://netflix-clone-18d1d.firebaseapp.com/
+              ###POWERED BY HOBA ALBI'S
+                                                                            #For Learning Purposes
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
